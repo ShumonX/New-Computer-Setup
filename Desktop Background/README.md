@@ -1,3 +1,0 @@
-# Windows XP backgrounds
-
-friend
