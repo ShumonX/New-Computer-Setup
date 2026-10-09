@@ -1,6 +1,11 @@
 # New Computer Setup 👨🏾‍💻
 Steps when setting up a new or newly reset computer 👨‍💻
 
+# Desktop Backgrounds
+From Windows XP - modern and friendly
+1. Bliss
+2. [Autumn](https://en.wikipedia.org/wiki/Autumn) - 1 August – 31 October
+
 # Gmail accounts 📧
 1. ✅ ln.fn@gmail.com
 2. ✅ s.s.lmb@gmail.com - Original GMail account
