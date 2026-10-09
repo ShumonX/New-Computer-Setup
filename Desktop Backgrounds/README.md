@@ -4,3 +4,7 @@ a desktop background should make the computer look modern and friendly, and yet 
 
 1. Bliss.bmp (AI upscaled from 800×600 to 8K)
 2. 
+
+
+Windows XP Desktop Backgrounds
+the black & white dog, named friend, was so nice
