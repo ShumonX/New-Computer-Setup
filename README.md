@@ -1,6 +1,12 @@
 # New Computer Setup 👨🏾‍💻
 Steps when setting up a new or newly reset computer 👨‍💻
 
+# Computer Specification
+
+1. 267 PPI screen
+2. Fanless
+3. Front facing speakers
+
 # Desktop Backgrounds
 From Windows XP - modern and friendly
 1. Bliss
