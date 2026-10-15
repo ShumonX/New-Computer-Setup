@@ -1,11 +1,11 @@
 # New Computer Setup 👨🏾‍💻
 Steps when setting up a new or newly reset computer 👨‍💻
 
-# Computer Specification
+# New Computer Preferred Specifications 🤓
 
 1. 267 PPI screen ✨
-2. Fanless 🤫
-3. Front facing speakers 🔊
+2. Fanless - 100% Total Silent Operation 🤫💯
+3. Front facing speakers 🔊🔊
 4. Burgundy colour 🍷
 
 # Desktop Backgrounds
