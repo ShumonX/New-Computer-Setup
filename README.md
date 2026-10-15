@@ -3,10 +3,10 @@ Steps when setting up a new or newly reset computer 👨‍💻
 
 # New Computer Preferred Specifications 🤓
 
-1. 267 PPI screen ✨
-2. Fanless - 100% Total Silent Operation 🤫💯
-3. Front facing speakers 🔊🔊
-4. Burgundy colour 🍷
+1. ✅ Close to 267 PPI screen or more ✨
+2. ✅ Fanless - 100% Total Silent Operation 🤫💯
+3. ✅ Front facing speakers 🔊🔊
+4. ✅ Burgundy colour 🍷
 
 # Desktop Backgrounds
 From Windows XP - modern and friendly
